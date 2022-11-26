@@ -5,11 +5,6 @@ import org.hibernate.Transaction;
 
 import java.time.LocalDate;
 
-/**
- * @author Paweł Recław, AmeN
- * @project j133-hibernate-demo
- * @created 26.11.2022
- */
 public class MainCreate_Insert {
     public static void main(String[] args) {
         // wywołaj try-with-resources który zamknie sesję automatycznie po opuszczeniu try

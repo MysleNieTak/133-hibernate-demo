@@ -4,11 +4,6 @@ import org.hibernate.Session;
 
 import java.io.IOException;
 
-/**
- * @author Paweł Recław, AmeN
- * @project j133-hibernate-demo
- * @created 26.11.2022
- */
 public class TryCatchPrzykladFinally {
     public static void main(String[] args) {
 //        // wywołaj try
